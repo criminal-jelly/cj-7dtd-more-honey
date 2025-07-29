@@ -1,0 +1,4 @@
+<crims_blocks>
+    <set xpath="/blocks/block[@name='treeStump']/drop[@name='foodHoney']/@prob">0.6</set>
+    <set xpath="/blocks/block[@name='treeStumpPOI']/drop[@name='foodHoney']/@prob">0.6</set>
+</crims_blocks>
